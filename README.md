@@ -2,7 +2,7 @@
 
 This project focuses on analyzing real-world salon environments around Colombo municipal council area. The project includes SQL-based database design, ER modeling, and data collection using surveys.
 
-🔹 Objectives:
+🔹 Objectives;
 
 1. Explore and clean real-world salon data
 
