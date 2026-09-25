@@ -15,3 +15,6 @@ This project focuses on analyzing real-world salon environments around Colombo m
 1. SQL for data storage and querying
 
 2. Excel & Python for analysis and visualization
+
+
+Contributors = @dhamith99
