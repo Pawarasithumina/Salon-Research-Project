@@ -17,4 +17,4 @@ This project focuses on analyzing real-world salon environments around Colombo m
 2. Excel & Python for analysis and visualization
 
 
-Contributors = @dhamith99
+Contributors = [@dhamith99](https://github.com/dhamith99)
